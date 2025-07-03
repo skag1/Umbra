@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9db5dc339feeb1b48bfb63c3fbce1847, type: 3}
+  m_Name: Area 1
+  m_EditorClassIdentifier: 
+  AreaName: Umbra
+  Levels:
+  - {fileID: 11400000, guid: 6b1c4fc3270c30444bb93bdca40c806d, type: 2}
+  - {fileID: 11400000, guid: 6625c5c24471b7c4588ecf176e2c2029, type: 2}
+  - {fileID: 11400000, guid: 36791dfb78bce8f47a5cfdbd87a32174, type: 2}
+  - {fileID: 11400000, guid: 0373cd7ce8f468b43b365be36b522907, type: 2}
+  - {fileID: 11400000, guid: 8b6b06e97537bc74994f9dd12e9493e1, type: 2}
+  - {fileID: 11400000, guid: d168887eaeeb0e34480e288bb903e272, type: 2}
+  - {fileID: 11400000, guid: d09a156428920b74da6b797b2c0fee4f, type: 2}
+  - {fileID: 11400000, guid: a7cbe51ca4901b544b664a2fdf6a8389, type: 2}
+  - {fileID: 11400000, guid: 6c15fd00c174e1e418b16fa2d64ee116, type: 2}
+  - {fileID: 11400000, guid: aa2334fcf4c948946aa0a62cc648f563, type: 2}
+  - {fileID: 11400000, guid: 533585e4549459345989ff187249da8b, type: 2}
+  - {fileID: 11400000, guid: d2d1c51807df510498c1ca94937de403, type: 2}
+  - {fileID: 11400000, guid: 50c5d6d88973fea4f91772ffede48b01, type: 2}
+  - {fileID: 11400000, guid: dd85d5e2f63978a4ca111d7dff2eaef2, type: 2}
+  - {fileID: 11400000, guid: 14f1ed5045489b448803dda79244169b, type: 2}
+  - {fileID: 11400000, guid: f1d68cad8fe4d254badcada05644e8a0, type: 2}
+  - {fileID: 11400000, guid: 4668815c2c6a1624da4e1255e5ee5b77, type: 2}
+  - {fileID: 11400000, guid: 823a9e8f0b7cd8347b8a459dbc691dae, type: 2}
+  - {fileID: 11400000, guid: a07fa7d0059052b46b5b59f72019d2c0, type: 2}
+  - {fileID: 11400000, guid: 63131940adec8f54d9de60552869f41e, type: 2}
